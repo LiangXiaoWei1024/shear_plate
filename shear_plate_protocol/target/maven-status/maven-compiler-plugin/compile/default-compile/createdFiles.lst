@@ -1,0 +1,11 @@
+com/bp/protocol/broadcast/FileUploadEntity.class
+com/bp/protocol/heartbeat/HeartbeatResult.class
+com/bp/protocol/handshake/Handshake.class
+com/bp/protocol/utils/MyFileUtils.class
+com/bp/protocol/broadcast/UpdateBroadcastChannel.class
+com/bp/protocol/broadcast/BroadcastFile.class
+com/bp/protocol/utils/OsUtils.class
+com/bp/protocol/broadcast/BroadcastText.class
+com/bp/protocol/heartbeat/Heartbeat.class
+com/bp/protocol/broadcast/UpdateBroadcastChannelResult.class
+com/bp/protocol/handshake/HandshakeResult.class

@@ -1,0 +1,11 @@
+/Users/xiaoweiliang/project/Java/shear_plate_protocol/src/main/java/com/bp/protocol/handshake/HandshakeResult.java
+/Users/xiaoweiliang/project/Java/shear_plate_protocol/src/main/java/com/bp/protocol/heartbeat/HeartbeatResult.java
+/Users/xiaoweiliang/project/Java/shear_plate_protocol/src/main/java/com/bp/protocol/heartbeat/Heartbeat.java
+/Users/xiaoweiliang/project/Java/shear_plate_protocol/src/main/java/com/bp/protocol/broadcast/UpdateBroadcastChannelResult.java
+/Users/xiaoweiliang/project/Java/shear_plate_protocol/src/main/java/com/bp/protocol/broadcast/FileUploadEntity.java
+/Users/xiaoweiliang/project/Java/shear_plate_protocol/src/main/java/com/bp/protocol/broadcast/BroadcastFile.java
+/Users/xiaoweiliang/project/Java/shear_plate_protocol/src/main/java/com/bp/protocol/broadcast/UpdateBroadcastChannel.java
+/Users/xiaoweiliang/project/Java/shear_plate_protocol/src/main/java/com/bp/protocol/utils/MyFileUtils.java
+/Users/xiaoweiliang/project/Java/shear_plate_protocol/src/main/java/com/bp/protocol/broadcast/BroadcastText.java
+/Users/xiaoweiliang/project/Java/shear_plate_protocol/src/main/java/com/bp/protocol/utils/OsUtils.java
+/Users/xiaoweiliang/project/Java/shear_plate_protocol/src/main/java/com/bp/protocol/handshake/Handshake.java
